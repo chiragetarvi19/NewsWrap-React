@@ -26,16 +26,11 @@ NewsWrap is a React-based news application designed to keep users updated with s
 
     npm install
 
-3. Set up Firebase:
-
-    Create a Firebase project at Firebase Console.
-    Add your Firebase configuration details in .env file (copy .env.example and rename it to .env).
-
-4. Run the application:
+3. Run the application:
 
     npm start
 
-5. Open your browser and visit http://localhost:3000 to view the application.
+4. Open your browser and visit http://localhost:3000 to view the application.
 
 
 ## Contributing
